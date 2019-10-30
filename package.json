@@ -1,0 +1,23 @@
+{
+  "name": "chatapp-using-socket.io-and-nodejs",
+  "version": "1.0.0",
+  "description": "Basic Chat App using Nodejs and Socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik-iiitkalyani/ChatApp-Using-Socket.Io-And-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratik-iiitkalyani/ChatApp-Using-Socket.Io-And-Nodejs/issues"
+  },
+  "homepage": "https://github.com/pratik-iiitkalyani/ChatApp-Using-Socket.Io-And-Nodejs#readme",
+  "dependencies": {
+    "nodemon": "^1.19.4",
+    "socket.io": "^2.3.0"
+  }
+}
